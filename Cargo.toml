@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "ligen-core",
+    "ligen",
+    "ligen-c",
+    "ligen-cpp"
+]
