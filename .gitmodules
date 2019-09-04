@@ -1,12 +1,16 @@
 [submodule "ligen-core"]
 	path = ligen-core
 	url = https://github.com/danguafer/ligen-core
+	branch = devenv
 [submodule "ligen"]
 	path = ligen
 	url = https://github.com/danguafer/ligen
+	branch = devenv
 [submodule "ligen-c"]
 	path = ligen-c
 	url = https://github.com/danguafer/ligen-c
+	branch = devenv
 [submodule "ligen-cpp"]
 	path = ligen-cpp
 	url = https://github.com/danguafer/ligen-cpp
+	branch = devenv
