@@ -4,5 +4,7 @@ members = [
     "ligen-core",
     "ligen",
     "ligen-c",
-    "ligen-cpp"
+    "ligen-cpp",
+#    "ligen-ue4blueprint",
+    "geom"
 ]
