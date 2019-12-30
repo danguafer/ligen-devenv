@@ -5,6 +5,6 @@ members = [
     "ligen",
     "ligen-c",
     "ligen-cpp",
-#    "ligen-ue4blueprint",
+    "ligen-ue4blueprint",
     "geom"
 ]

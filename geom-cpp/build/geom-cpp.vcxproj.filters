@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Veritas-Desktop\dev\danguafer\ligen-devenv\geom-cpp\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Veritas-Desktop\dev\danguafer\ligen-devenv\target\debug\ligen\cpp\src\Context.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Veritas-Desktop\dev\danguafer\ligen-devenv\target\debug\ligen\cpp\src\ContextBuilder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Veritas-Desktop\dev\danguafer\ligen-devenv\target\debug\ligen\cpp\src\ContextDisplay.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Veritas-Desktop\dev\danguafer\ligen-devenv\geom-cpp\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D727F353-1164-3FFF-BEFA-6A14504FA29D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -5,8 +5,7 @@ pub struct Rectangle {
     height: i32
 }
 
-//#[ligen(UE4Blueprint(BlueprintCallable, BlueprintType))]
-#[ligen(CPP)]
+#[ligen(UE4Blueprint)]
 impl Rectangle {
     pub fn new(width: i32, height: i32) -> Rectangle {
         Rectangle {

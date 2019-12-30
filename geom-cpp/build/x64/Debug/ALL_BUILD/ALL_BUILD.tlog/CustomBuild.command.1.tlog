@@ -1,0 +1,10 @@
+^C:\USERS\VERITAS-DESKTOP\DEV\DANGUAFER\LIGEN-DEVENV\GEOM-CPP\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Veritas-Desktop/dev/danguafer/ligen-devenv/geom-cpp -BC:/Users/Veritas-Desktop/dev/danguafer/ligen-devenv/geom-cpp/build --check-stamp-file C:/Users/Veritas-Desktop/dev/danguafer/ligen-devenv/geom-cpp/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
